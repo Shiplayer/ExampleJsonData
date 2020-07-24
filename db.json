@@ -11,4 +11,24 @@
   "profile": {
     "name": "typicode"
   }
+  "articles": [
+    {
+      "author": "Dr. Binoy Kampmark",
+      "title": "Zombie Seizures: The Hacking of Twitter",
+      "description": "July 15, 2020.  It was a day that will be remembered in the history of social media giant, Twitter. In what is becoming an increasingly quotidian occurrence with such companies, Twitter faced a hack described as “catastrophic”.  The company’s own language was…",
+      "url": "https://www.globalresearch.ca/hacking-twitter/5719144",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2015/06/twitter-Arabie.jpg",
+      "publishedAt": "2020-07-24T20:03:02Z",
+      "content": "July 15, 2020.  It was a day that will be remembered in the history of social media giant, Twitter. \r\nIn what is becoming an increasingly quotidian occurrence with such companies, Twitter faced a hac… [+6615 chars]"
+    },
+    {
+      "author": "Science X staff",
+      "title": "Study: Black entrepreneurship in the United States",
+      "description": "A steady stream of media reports detailing the deaths of unarmed Black Americans at the hands of police. False 911 calls aimed at bringing harm to African Americans engaged in innocuous, everyday activities. Street protests calling for an end to discriminatio…",
+      "url": "https://phys.org/news/2020-07-black-entrepreneurship-states.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/studyblacken.jpg",
+      "publishedAt": "2020-07-24T19:42:57Z",
+      "content": "A steady stream of media reports detailing the deaths of unarmed Black Americans at the hands of police. False 911 calls aimed at bringing harm to African Americans engaged in innocuous, everyday act… [+13791 chars]"
+    }
+  ]
 }
